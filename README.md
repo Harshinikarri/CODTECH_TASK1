@@ -6,16 +6,16 @@
 **Mentor**:SANTHOSH KUMAR NEELA
 
 
-#Overview of the project
+## Overview of the project
 
-###Project:Basic calculator
+### Project:Basic calculator
 
-###Objectives:
+### Objectives:
 - Create a Java program to perform basic arithmetic operations.
 - Allow users to input numbers and select operations.
 - Display the results of calculations.
 
-###Key activituies:
+### Key activituies:
 1. **User Input**: Allow users to input numbers and select operations.
 2. **Calculation**: Perform arithmetic operations (addition, subtraction, multiplication, division).
 3. **Output**: Display the results of calculations.
