@@ -24,7 +24,8 @@
 1. **User Input**: Allow users to input numbers and select operations.
 2. **Calculation**: Perform arithmetic operations (addition, subtraction, multiplication, division).
 3. **Output**: Display the results of calculations.
-**Error handling**:
+   
+## Error handling:
 - Handle cases where user input is invalid (e.g., division by zero).
 
 ## Technology used:
